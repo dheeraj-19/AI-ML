@@ -10,8 +10,9 @@ https://www.kaggle.com/shree1992/housedata
 - Visualize the dependency of the target on each continuous feature (2d scatter plot)
 - Split the data in training and testing set
 - Use ColumnTransformer to encode categorical variables
-- Apply Regressions
-Evaluate Linear Regression (OLS)
-Ridge
-Lasso
-Elasticnet
+
+- Apply and Evaluate Regressions
+	1. Linear Regression (OLS)
+	2. Ridge
+	3. Lasso
+	4. Elasticnet
