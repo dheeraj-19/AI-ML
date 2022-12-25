@@ -1,2 +1,4 @@
-# AI-ML
-Repo to store all the codes that I have worked on in the AI/ML field
+# Machine Learning
+
+Repo to store all the concepts and codes that I have learned and worked on in the Machine Learning field
+
